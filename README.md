@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 ![snake gif](https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=harshmathur86&show_icons=true&locale=en&layout=compact)](https://github.com/ItsAnkitPatel)
+-->
