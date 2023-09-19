@@ -20,3 +20,9 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="[github-contribution-grid-snake.svg](https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg)https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+<p align="center">
+  <a href="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
