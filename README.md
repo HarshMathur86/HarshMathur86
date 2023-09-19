@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 </picture>
 
 <p align="center">
-  <a href="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake.svg">
+  <a href="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake-light.svg">
+    <img alt="GitHub Snake Animation (Light)" src="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake-light.svg">
+  </a>
+  <a href="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Snake Animation (Dark)" src="https://github.com/HarshMathur86/HarshMathur86/blob/output/github-contribution-grid-snake-dark.svg">
   </a>
 </p>
+
